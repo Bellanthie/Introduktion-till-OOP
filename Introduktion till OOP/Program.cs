@@ -8,22 +8,11 @@
 
 
         // Method..add paranthesese in order to pass in information for later on
-        public int GetArea()
+        public int GetArea(int Radius)
         {
-            int number = radie;
+            int number = Radius;
             return number;
         }
-
-
     }
-
-
-    class Circle
-    {
-        public int Radius { get; set; }
-        public int float _pi { get; set; }
-            {
-                Radius = 
-            }
 }
 

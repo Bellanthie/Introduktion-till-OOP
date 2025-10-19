@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Introduktion_till_OOP
 {
-    internal class Circle
+    public class Circle
     {
         // Constructor that welcomes the radius as a parameter
         private double radius;
